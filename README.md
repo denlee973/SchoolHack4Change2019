@@ -5,4 +5,4 @@
 
 ![alt text](https://github.com/denlee973/clearContract/blob/master/src/LOGO.jpg "Logo")
 
-[Presentation Slides] (https://docs.google.com/presentation/d/1F5P8PEeP0iAwAg2fhFeS6Gfqp1DrHeWYFIDllx4RmRE/edit?usp=sharing)
+[Presentation Slides](https://docs.google.com/presentation/d/1F5P8PEeP0iAwAg2fhFeS6Gfqp1DrHeWYFIDllx4RmRE/edit?usp=sharing)
