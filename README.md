@@ -1,7 +1,7 @@
 # clearContract
-###Blockchain Learning Group - School Hack 4 Change
-###2 Nov - 4 Nov 2018
-###Team Havergal
+### Blockchain Learning Group - School Hack 4 Change
+### 2 Nov - 4 Nov 2018
+### Team Havergal
 
 ![alt text](https://github.com/denlee973/clearContract/blob/master/src/LOGO.jpg "Logo")
 
